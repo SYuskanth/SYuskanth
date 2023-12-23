@@ -2,7 +2,6 @@
 <h3 align="center">🎓 I am Yuskanthan S currently pursuing Bsc. Honours in Software Engineering in Sabaragamuwa University of Sri Lanka. Also I am very much interested versatility in computing.</h3>
 <img align="right" alt="coding" width="400"  src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47v74r7ojl85c6ufvhtl7120beyvotj44hdf8t7ikf&ep=v1_gifs_search&rid=giphy.gif&ct=g" >
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syuskanth&label=Profile%20views&color=0e75b6&style=flat" alt="syuskanth" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
@@ -16,6 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/linkedin.com/in/yuskanthan-susanthan031" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/yuskanthan-susanthan031" height="30" width="40" /></a>
+<a href="https://fb.com/https://web.facebook.com/yuskanthan.susanthan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/yuskanthan.susanthan" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/yuskanthan?igsh=adr6zg4wzwrlcdk4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/yuskanthan?igsh=adr6zg4wzwrlcdk4" height="30" width="40" /></a>
 </p>
 
