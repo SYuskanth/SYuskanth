@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yuskanthan</h1>
 <h3 align="center">🎓 I am Yuskanthan S currently pursuing Bsc. Honours in Software Engineering in Sabaragamuwa University of Sri Lanka. Also I am very much interested versatility in computing.</h3>
-<img align="right" alt="coding" width="400"  src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47v74r7ojl85c6ufvhtl7120beyvotj44hdf8t7ikf&ep=v1_gifs_search&rid=giphy.gif&ct=g"  border-radious="20px">
+<img align="right" alt="coding" width="400"  src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47v74r7ojl85c6ufvhtl7120beyvotj44hdf8t7ikf&ep=v1_gifs_search&rid=giphy.gif&ct=g" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syuskanth&label=Profile%20views&color=0e75b6&style=flat" alt="syuskanth" /> </p>
 
