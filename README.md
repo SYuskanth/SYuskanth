@@ -3,7 +3,7 @@ Hi👋, I'm Yuskanthan<br>
 <div style="text-align: center;">
   🎓 I am Yuskanthan S currently pursuing BSc. Honours in Software Engineering at Sabaragamuwa University of Sri Lanka. Also, I am very much interested in Software Quality Assurance (SQA).<br><br>🌟 Interested in test automation, API testing, and Agile software development.
 </div>
-
+[![](https://visitcount.itsvg.in/api?id=SYuskanth&icon=3&color=9)](https://visitcount.itsvg.in)
 
 
 
@@ -21,7 +21,6 @@ Hi👋, I'm Yuskanthan<br>
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
----
-[![](https://visitcount.itsvg.in/api?id=SYuskanth&icon=3&color=9)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
